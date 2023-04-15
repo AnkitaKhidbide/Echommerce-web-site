@@ -1,4 +1,4 @@
-operatores
+operatoreshhhhhh
 1. Arithmetic (+, -, *, /, %=modeoperatore remender can findout)
 
 2. relational / comparison (>, <, = assignment operator (right side valu ko left side), ==(equal hai ya nahi), >=, <=, !=(not equal to) )
