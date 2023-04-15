@@ -1,0 +1,29 @@
+operatores
+1. Arithmetic (+, -, *, /, %=modeoperatore remender can findout)
+
+2. relational / comparison (>, <, = assignment operator (right side valu ko left side), ==(equal hai ya nahi), >=, <=, !=(not equal to) )
+
+3. logical operators : (&(2 and more thand 2 conditions), or||(2 condiation maise 1 condition true honi chaiye), not!(equal nahi hoga to true nahi to false))
+
+4. increment ++ (1 se increase) & decrement (1 se minus) --: 
+pre increment ++a and post increment a++
+pre decrement --a and post decrement a--
+
+
+== 2 side ture ahet ki nahi check karne karne keliye duble use hota hai
+
+< : less than
+> : gerter than
+
+
+Statements in javascript 
+A)conditional or decision making
+1. if/else
+2. switch
+B)intrational or loop
+1. for
+2. while
+3. loop
+
+less than 0 negative
+more than 0 positive
